@@ -124,38 +124,41 @@ jaringan jadi padat dan lambat. Dalam kasus seperti ini, kamu bisa melakukan
 hal-hal berikut untuk mengatasinya:
 
 ***1. Gunakan frekuensi 5 Ghz***
-    sehingga sinyal Wi-Fi kamu tidak perlu beradu dengan frekuensi 2.4Ghz
-    lainnya. Router bawaan ISP biasanya tidak memiliki kemampuan 5 Ghz,
-    tapi tidak ada salahnya mencari tahu. Kamu juga bisa membeli router
-    baru dengan kemampuan 5 Ghz (dual band).
 
-    Jika memang masalahnya adalah jaringan yang terlalu padat, maka
-    menggunakan frekuensi 5 Ghz akan membantu. Kamu tidak akan tibatiba mendapatkan kecepatan melebihi paket langganan kamu, tapi kamu
-    akan merasakan respons yang lebih cepat karena intervensi minim dari
-    para pengguna Wi-Fi lain di sekitarmu.
+sehingga sinyal Wi-Fi kamu tidak perlu beradu dengan frekuensi 2.4Ghz
+lainnya. Router bawaan ISP biasanya tidak memiliki kemampuan 5 Ghz,
+tapi tidak ada salahnya mencari tahu. Kamu juga bisa membeli router
+baru dengan kemampuan 5 Ghz (dual band).
+
+Jika memang masalahnya adalah jaringan yang terlalu padat, maka
+menggunakan frekuensi 5 Ghz akan membantu. Kamu tidak akan tibatiba mendapatkan kecepatan melebihi paket langganan kamu, tapi kamu
+akan merasakan respons yang lebih cepat karena intervensi minim dari
+para pengguna Wi-Fi lain di sekitarmu.
 
 ***2. Upgrade router***
-    Jika ada banyak gadget aktif yang menggunakan Wi-Fi, maka melakukan
-    upgrade router yang punya prosesor yang lebih kencang atau fitur MUMIMO mungkin bisa membantu.
 
-    Setiap permintaan dari gadget akan diproses dengan sistem antrean oleh
-    router. Tipe router yang jelek akan memiliki prosesor lambat, sehingga
-    tidak cukup cepat untuk memproses semuanya.
-    
-    Router yang punya fitur MU-MIMO bisa memproses beberapa
-    permintaan secara bersamaan, sehingga memiliki respons lebih baik 
-    (namun ini hanya berlaku ketika gadget yang terhubung cukup banyak).
+Jika ada banyak gadget aktif yang menggunakan Wi-Fi, maka melakukan
+upgrade router yang punya prosesor yang lebih kencang atau fitur MUMIMO mungkin bisa membantu.
+
+Setiap permintaan dari gadget akan diproses dengan sistem antrean oleh
+router. Tipe router yang jelek akan memiliki prosesor lambat, sehingga
+tidak cukup cepat untuk memproses semuanya.
+
+Router yang punya fitur MU-MIMO bisa memproses beberapa
+permintaan secara bersamaan, sehingga memiliki respons lebih baik 
+(namun ini hanya berlaku ketika gadget yang terhubung cukup banyak).
 
 
 ***3. Jika upgrade router bukanlah pilihan, coba untuk mengubah channel Wi-Fi kamu***
-    Untuk router standar (2.4G hz) ada 12 channel yang bisa dipilih. Kamu
-    bisa mengubahnya satu per satu, serta melakukan tes kecepatan untuk
-    melihat channel yang paling optimal.
 
-    Intinya adalah, jika kamu dan seluruh unit/kamar sekitar menggunakan
-    channel sama, maka itu akan memperburuk kualitas jaringan. Karena
-    setting tiap router berbeda, kamu bisa googling sendiri caranya dengan
-    router yang kamu miliki.
+Untuk router standar (2.4G hz) ada 12 channel yang bisa dipilih. Kamu
+bisa mengubahnya satu per satu, serta melakukan tes kecepatan untuk
+melihat channel yang paling optimal.
+
+Intinya adalah, jika kamu dan seluruh unit/kamar sekitar menggunakan
+channel sama, maka itu akan memperburuk kualitas jaringan. Karena
+setting tiap router berbeda, kamu bisa googling sendiri caranya dengan
+router yang kamu miliki.
 
 Kualitas layanan internet, router, dan gadget/laptop adalah tiga komponen
 penting di mana semuanya bisa berperan jadi bottleneck. Tugas kamu adalah
